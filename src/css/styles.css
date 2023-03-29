@@ -12,6 +12,12 @@ body {
   line-height: 1.5;
 }
 
+.country-list__flag,
+.country-info__flag {
+  width: 50px;
+  height: 30px;
+}
+
 #search-box {
   font: inherit;
   padding: 8px;
