@@ -1,6 +1,8 @@
 import Notiflix from "notiflix";
-import './css/styles.css';
+// import './css/styles.css';
 import debounce from 'lodash.debounce';
+src / css / styles.css
+import 'src/css/styles.css';
 
 
 const inputRef = document.querySelector("#search-box");
